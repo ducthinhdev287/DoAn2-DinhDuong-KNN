@@ -119,7 +119,7 @@ DoAn2-DinhDuong-KNN/
 ### Bước 1: Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DoAn2-DinhDuong-KNN.git
+git clone https://github.com/ducthinhdev287/DoAn2-DinhDuong-KNN.git
 cd DoAn2-DinhDuong-KNN
 ```
 
