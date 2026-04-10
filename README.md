@@ -130,7 +130,7 @@ cd DoAn2-DinhDuong-KNN
 3. Dán link repo vào và chọn file `Do_An_2.ipynb`
 
 Hoặc nhấn thẳng vào badge:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/DoAn2-DinhDuong-KNN/blob/main/Do_An_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ducthinhdev287/DoAn2-DinhDuong-KNN/blob/main/Do_An_2.ipynb)
 
 ### Bước 3: Cài đặt thư viện
 
