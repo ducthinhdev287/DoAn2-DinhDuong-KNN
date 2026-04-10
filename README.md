@@ -165,11 +165,11 @@ Trong Colab: **Runtime → Run all** (hoặc `Ctrl + F9`)
 
 | Thông tin | Chi tiết |
 |-----------|----------|
-| **Họ tên** | *(Điền tên bạn)* |
-| **MSSV** | *(Điền MSSV)* |
-| **Lớp** | *(Điền lớp)* |
-| **Giảng viên** | *(Điền tên GV hướng dẫn)* |
-| **Trường** | *(Điền tên trường)* |
+| **Họ tên** | *Đỗ Đức Thịnh* |
+| **MSSV** | *10123307* |
+| **Lớp** | *124231* |
+| **Giảng viên** | *ThS Đào Minh Tuấn* |
+| **Trường** | *Sư Phạm Kỹ Thuật Hưng Yên* |
 
 ---
 
